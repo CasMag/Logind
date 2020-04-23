@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#00e5ff</color>
+
+    <color name="agua_claro">#91000D0E</color>
+    <color name="agua_oscuro">#14A0B3</color>
+    <color name="white">#ffffff</color>
+    <color name="agua_bajotono">#793285</color>
+    <color name="black_transp">#F2000000</color>
+    <string name="blacks">#000000</string>
+</resources>

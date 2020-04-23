@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563321598380",
+    "firebase_url": "https://casmag-355fd.firebaseio.com",
+    "project_id": "casmag-355fd",
+    "storage_bucket": "casmag-355fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563321598380:android:14cfc3f9ea2c085edd8a09",
+        "android_client_info": {
+          "package_name": "com.example.logind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563321598380-dhh0dcmgpn77rse9kri104rhi37nksms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7IFZRDq9DHWAHAhagFS8xxhqzVeTXXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563321598380-dhh0dcmgpn77rse9kri104rhi37nksms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
